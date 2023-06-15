@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E64B2F;
+    margin: 0px;
+}
+
+div{
+    height: 626px;
+    background-color: #EEECE3;
+    margin-top: 200px;
+    margin-bottom: 200px;    
+}
+
+.text1{
+    font-size: 27px;
+    color: #E64B2F;
+
+}
